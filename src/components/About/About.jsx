@@ -60,7 +60,7 @@ const About = () => {
             real-world projects and grow as a developer.
           </p>
           <a
-            href=""
+            href="https://drive.google.com/file/d/1s2ERKMfizZKN1C6nvNXH5XPmI2ZEckD_/view?usp=drive_link"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
             style={{
