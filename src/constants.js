@@ -229,4 +229,14 @@ export const SkillsInfo = [
       github: "https://github.com/Himanshu6408/Wholesale-Catalog-WebApplication",
       webapp: "https://wholesale-catalog-web-application.vercel.app/",
     },
+    {
+      id: 9,
+      title: "Ecommerce Website",
+      description:
+        "A React.js-based eCommerce website designed to professionally showcase men's, women's, and electronics products. Built with Tailwind CSS and JavaScript, the platform features a clean layout optimized for desktop users. Products are well-categorized, enabling smooth navigation and easy browsing for customers. The site focuses on structured product presentation and delivers an intuitive shopping experience.",
+      image: project10Logo,
+      tags: ["React JS", "Tailwind CSS"],
+      github: "https://github.com/Himanshu6408/React-Ecommerce-Website",
+      webapp: "https://react-ecommerce-website-rouge.vercel.app/",
+    },
   ];  
