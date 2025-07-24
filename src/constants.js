@@ -42,7 +42,7 @@ import project6Logo from './assets/work_logo/project6.png';
 import project7Logo from './assets/work_logo/project7.png';
 import project8Logo from './assets/work_logo/project8.png';
 import project9Logo from './assets/work_logo/project9.png';
-import project10Logo from './assets/work_logo/project10.png';
+import project10Logo from'./assets/work_logo/project10.png';
 
 
 export const SkillsInfo = [
