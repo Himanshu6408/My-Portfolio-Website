@@ -44,7 +44,7 @@ const Footer = () => {
             { icon: <FaTwitter />, link: "https://x.com/Himanshu0660758" },
             {
               icon: <FaLinkedin />,
-              link: "https://www.linkedin.com/in/himanshu-mishra-52004231a",
+              link: "",
             },
           ].map((item, index) => (
             <a
