@@ -40,11 +40,14 @@ const Footer = () => {
         {/* Social Media Icons - Responsive */}
         <div className="flex flex-wrap justify-center space-x-4 mt-6">
           {[
-            { icon: <FaGithub />, link: "https://github.com/Himanshu6408?tab=repositories" },
+            {
+              icon: <FaGithub />,
+              link: "https://github.com/Himanshu6408?tab=repositories",
+            },
             { icon: <FaTwitter />, link: "https://x.com/Himanshu0660758" },
             {
               icon: <FaLinkedin />,
-              link: "",
+              link: "https://www.linkedin.com/in/himanshu-mishra-52004231a",
             },
           ].map((item, index) => (
             <a
