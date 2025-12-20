@@ -50,17 +50,16 @@ const About = () => {
               )}
             />
           </h3>
-          <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I am a frontend developer with a strong passion for creating
-            user-friendly and responsive web applications. Currently focused on
-            mastering frontend technologies like HTML, CSS, JavaScript, and
-            React. I aim to build clean, interactive interfaces that enhance
-            user experience. With continuous learning, I plan to transition into
-            a full-stack role using the MERN stack. I’m excited to contribute to
-            real-world projects and grow as a developer.
+          <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed ">
+            Frontend Developer with a strong foundation in modern web
+            technologies and hands-on experience building interactive,
+            user-focused applications. Expanding expertise into backend
+            development to transition into a full-stack role. Passionate about
+            writing clean code, continuous learning, and delivering scalable web
+            solutions.
           </p>
           <a
-            href="https://drive.google.com/file/d/1s2ERKMfizZKN1C6nvNXH5XPmI2ZEckD_/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1iIKD3Oktwy0ciedMAOnA4rLdIUB31ha0/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"

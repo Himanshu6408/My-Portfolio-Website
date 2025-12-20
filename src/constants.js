@@ -26,6 +26,7 @@ import vercelLogo from "./assets/tech_logo/vercel.png";
 
 // Experience Section Logo's
 import exp1logo from "./assets/experience_logo/exp1.webp";
+import exp2logo from "./assets/experience_logo/exp2.webp";
 
 // Education Section Logo's
 import aceLogo from "./assets/education_logo/ace_logo.png";
@@ -90,8 +91,26 @@ export const SkillsInfo = [
 export const experiences = [
   {
     id: 0,
+    img: exp2logo,
+    role: "Frontend Developer Intern",
+    company: "Wave Infotech Panchkula, Haryana",
+    date: "July 2025 – Present",
+    desc: "Gained hands-on experience in company workflows and the complete process of planning and developing software products. Developed practical skills in identifying and debugging issues during development while collaborating effectively with team members to enhance communication, coordination, and teamwork. Adapted to professional development workflows, coding standards, and project timelines, strengthening problem-solving abilities and deepening overall understanding of software development processes.",
+    skills: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Tailwind CSS,",
+      "React.js",
+      "Redux Toolkit",
+      " Git",
+      "GitHub",
+    ],
+  },
+  {
+    id: 1,
     img: exp1logo,
-    role: "Web Development (Training)",
+    role: "Frontend Development Training",
     company: "Solitaire Infosystems Pvt. Ltd.",
     date: "July 2024 - Sept 2024",
     desc: "Completed a 45-day Web Development Training Program focused on building core skills in HTML, CSS, JavaScript, and Bootstrap. Gained hands-on experience in creating responsive web pages, designing user-friendly interfaces, and implementing interactive features. This training laid the foundation for frontend development and strengthened understanding of modern web design practices.",
@@ -103,11 +122,11 @@ export const education = [
   {
     id: 0,
     img: aceLogo,
-    school: "Ambala College of Engineering and Applied Research, Ambala",
+    school: "Kurukshetra University",
     date: "Aug 2022 - June 2025",
     grade: "8.28 SGPA",
-    desc: "I have completed my Bachelor of Technology (B.Tech) in Computer Science and Engineering from Ambala College of Engineering and Applied Research. During my time at the college, I built a solid foundation in programming, software development, and core computer science concepts. I studied subjects such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I also actively participated in technical workshops and events, which helped enhance my practical knowledge and skills. My experience at Ambala College has played a crucial role in shaping my technical abilities and professional growth.",
-    degree: "Bachelor of Technology - B.Tech ",
+    desc: "Completed core courses in Data Structures, Algorithms, DBMS, OS, and Web Development, gaining hands-on experience in programming, software development, and problem-solving. Worked on academic projects in web development and software design, while developing strong analytical, debugging, and teamwork skills.",
+    degree: "Bachelor of Technology ( Computer Science )",
   },
   {
     id: 1,
@@ -115,7 +134,7 @@ export const education = [
     school: "Government Polytechnic, Ambala",
     date: "Aug 2019 - July 2022",
     grade: "72%",
-    desc: "I completed my Diploma in Automobile Engineering from Government Polytechnic, Ambala City During my studies I gained hands-on experience with vehicle engines and mechanical systems I learned how different automobile parts function and how each contributes to overall performance The program emphasized practical learning including real-world diagnostics and maintenance This experience deepened my interest in automotive technology and mechanical engineering.",
+    desc: "Completed core courses in Automobile Mechanics, Engine Technology, Vehicle Dynamics, and Workshop Practices, gaining hands-on experience in vehicle maintenance, diagnostics, and repair techniques. Executed practical projects involving engine assembly, vehicle troubleshooting, and automotive systems.",
     degree: "Diploma ( Automobile Engineering)",
   },
   {
@@ -124,8 +143,8 @@ export const education = [
     school: "SD.Public School Nagla Jattan, Ambala",
     date: "Apr 2018 - March 2019",
     grade: "71%",
-    desc: "I completed my class 10 education from  SD Public School, Nagla Jattan, under the HBSE board, where I studied Science, Mathematics, Computer Science, and Physical Education.",
-    degree: "HBSE (X) – Science, Mathematics, Computer Science.",
+    desc: "Gained a strong foundational knowledge in Mathematics, Science, and Computer Fundamentals, developing logical reasoning and problem-solving skills. Built discipline, time management, and analytical thinking through participation in school projects and activities.",
+    degree: "Matriculation (10th Class), HBSE",
   },
 ];
 
