@@ -26,10 +26,10 @@ import vercelLogo from "./assets/tech_logo/vercel.png";
 
 // Experience Section Logo's
 import exp1logo from "./assets/experience_logo/exp1.webp";
-import exp2logo from "./assets/experience_logo/exp2.webp";
+import exp2logo from "./assets/experience_logo/exp2.png";
 
 // Education Section Logo's
-import aceLogo from "./assets/education_logo/ace_logo.png";
+import kukLogo from "./assets/education_logo/kuk_logo.png";
 import gpaLogo from "./assets/education_logo/gpa_logo.webp";
 import sdsLogo from "./assets/education_logo/sds_logo.png";
 
@@ -121,7 +121,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: aceLogo,
+    img: kukLogo,
     school: "Kurukshetra University",
     date: "Aug 2022 - June 2025",
     grade: "8.28 SGPA",
