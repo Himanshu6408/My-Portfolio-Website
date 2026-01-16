@@ -59,7 +59,7 @@ const About = () => {
             solutions.
           </p>
           <a
-            href="https://drive.google.com/file/d/1WqX9H38m4_GGSnmOlY_bELpE2NLVHukP/view?usp=drive_link"
+            href="https://drive.google.com/file/d/129AM_PO8acHGcEgDCXkm_f95YbtZ5rts/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"

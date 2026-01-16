@@ -25,8 +25,8 @@ import vscodeLogo from "./assets/tech_logo/vscode.png";
 import vercelLogo from "./assets/tech_logo/vercel.png";
 
 // Experience Section Logo's
-import exp1logo from "./assets/experience_logo/exp1.webp";
-import exp2logo from "./assets/experience_logo/exp2.png";
+import exp1logo from "./assets/experience_logo/exp1.jpg";
+import exp2logo from "./assets/experience_logo/exp2.jpg";
 
 // Education Section Logo's
 import kukLogo from "./assets/education_logo/kuk_logo.png";
@@ -93,8 +93,8 @@ export const experiences = [
     id: 0,
     img: exp2logo,
     role: "Frontend Developer Intern",
-    company: "Wave Infotech Panchkula, Haryana",
-    date: "July 2025 – January 2026",
+    company: "Asvayuk Technologies Private Limited, Panchkula, Haryana",
+    date: "July 2025 – December 2025",
     desc: "Gained hands-on experience in company workflows and the complete process of planning and developing software products. Developed practical skills in identifying and debugging issues during development while collaborating effectively with team members to enhance communication, coordination, and teamwork. Adapted to professional development workflows, coding standards, and project timelines, strengthening problem-solving abilities and deepening overall understanding of software development processes.",
     skills: [
       "HTML",
@@ -111,7 +111,7 @@ export const experiences = [
     id: 1,
     img: exp1logo,
     role: "Frontend Development Training",
-    company: "Solitaire Infosystems Pvt. Ltd.",
+    company: "Solitaire Infosystems Private Limited, Mohali",
     date: "July 2024 - Sept 2024",
     desc: "Completed a 45-day Web Development Training Program focused on building core skills in HTML, CSS, JavaScript, and Bootstrap. Gained hands-on experience in creating responsive web pages, designing user-friendly interfaces, and implementing interactive features. This training laid the foundation for frontend development and strengthened understanding of modern web design practices.",
     skills: ["HTML", "CSS", "JavaScript", "Bootstrap"],
