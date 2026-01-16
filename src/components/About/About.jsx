@@ -55,7 +55,7 @@ const About = () => {
             technologies and hands-on experience building interactive,
             user-centric applications. Expanding into backend development to
             grow into a full-stack role, with a focus on clean code, scalable
-            solutions, and continuous learnings.
+            solutions, and continuous learning.
           </p>
           <a
             href="https://drive.google.com/file/d/129AM_PO8acHGcEgDCXkm_f95YbtZ5rts/view?usp=drive_link"
