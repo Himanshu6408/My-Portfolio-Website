@@ -53,10 +53,9 @@ const About = () => {
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed ">
             Frontend Developer with a strong foundation in modern web
             technologies and hands-on experience building interactive,
-            user-focused applications. Expanding expertise into backend
-            development to transition into a full-stack role. Passionate about
-            writing clean code, continuous learning, and delivering scalable web
-            solutions.
+            user-centric applications. Expanding into backend development to
+            grow into a full-stack role, with a focus on clean code, scalable
+            solutions, and continuous learning.
           </p>
           <a
             href="https://drive.google.com/file/d/129AM_PO8acHGcEgDCXkm_f95YbtZ5rts/view?usp=drive_link"
